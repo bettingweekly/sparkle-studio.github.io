@@ -2415,10 +2415,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
 }
 
-.single-offer h4 {
-  padding: 30px 0 20px 0;
-}
-
 @media (max-width: 800px) {
   .single-offer {
     margin-bottom: 30px;
